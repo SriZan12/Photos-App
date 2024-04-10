@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photos_App</string>
+    <string name="photos_app">Photos App</string>
+    <string name="please_select_two_image_at_a_time">Please Select Two Image at a time</string>
+    <string name="type_size_of_list">Size of List</string>
+    <string name="add_number_of_image_list_size">Determine the Image List Size</string>
+    <string name="please_select_only_number">Please Select Only Number</string>
+    <string name="generate">Generate</string>
+    <string name="clear">clear</string>
+    <string name="image_list">Image List</string>
+</resources>
